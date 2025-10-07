@@ -59,12 +59,12 @@ export default function About() {
                   Professional Journey
                 </h3>
                 <p className="text-slate-300 leading-relaxed mb-4">
-                  I'm a <span className="text-blue-400 font-semibold">Senior Software Engineer</span> at 
+                  I&apos;m a <span className="text-blue-400 font-semibold">Senior Software Engineer</span> at 
                   Cloud Solutions International with over 3 years of experience in enterprise software development. 
                   My expertise spans across full-stack development, cloud architecture, and team leadership.
                 </p>
                 <p className="text-slate-300 leading-relaxed">
-                  Throughout my career, I've specialized in building scalable applications using modern technologies 
+                  Throughout my career, I&apos;ve specialized in building scalable applications using modern technologies 
                   like <span className="text-blue-400">.NET</span>, <span className="text-red-400">Angular</span>, 
                   and cloud platforms, particularly <span className="text-purple-400">Microsoft Azure</span>.
                 </p>
@@ -125,7 +125,7 @@ export default function About() {
                     <h4 className="text-lg font-semibold text-white">Current Mission</h4>
                   </div>
                   <p className="text-slate-300 text-sm">
-                    Building tomorrow's solutions through cloud-native development, 
+                    Building tomorrow&apos;s solutions through cloud-native development, 
                     team leadership, and continuous innovation in software engineering
                   </p>
                 </div>

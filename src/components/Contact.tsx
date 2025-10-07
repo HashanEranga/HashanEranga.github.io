@@ -48,10 +48,10 @@ export default function Contact() {
         >
           <div className="text-center mb-16">
             <h2 className="text-4xl lg:text-5xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent mb-4">
-              Let's Connect
+              Let&apos;s Connect
             </h2>
             <p className="text-xl text-slate-300 max-w-3xl mx-auto">
-              Ready to collaborate or discuss opportunities? I'd love to hear from you!
+              Ready to collaborate or discuss opportunities? I&apos;d love to hear from you!
             </p>
           </div>
 
@@ -95,12 +95,12 @@ export default function Contact() {
                 transition={{ duration: 0.6, delay: 0.4 }}
                 className="bg-gradient-to-br from-blue-500/10 to-purple-500/10 rounded-lg p-8 border border-blue-500/20"
               >
-                <h3 className="text-2xl font-bold text-white mb-4">Let's Work Together</h3>
+                <h3 className="text-2xl font-bold text-white mb-4">Let&apos;s Work Together</h3>
                 <p className="text-slate-300 mb-6 leading-relaxed">
-                  I'm always open to discussing new opportunities, interesting projects, 
-                  or just having a chat about technology and innovation. Whether you're 
+                  I&apos;m always open to discussing new opportunities, interesting projects, 
+                  or just having a chat about technology and innovation. Whether you&apos;re 
                   looking for a technical leader, a mentor, or a collaborative partner, 
-                  I'd love to connect.
+                  I&apos;d love to connect.
                 </p>
                 
                 <div className="space-y-4">

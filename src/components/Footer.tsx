@@ -25,7 +25,7 @@ export default function Footer() {
           </div>
           
           <p className="text-slate-500 text-xs">
-            "Code with passion, lead with vision, innovate with purpose"
+            &quot;Code with passion, lead with vision, innovate with purpose&quot;
           </p>
         </motion.div>
       </div>

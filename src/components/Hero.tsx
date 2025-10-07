@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { ArrowDown, Github, Linkedin, Mail, Phone, ExternalLink } from 'lucide-react';
+import { ArrowDown, Linkedin, Mail, ExternalLink } from 'lucide-react';
 import Image from 'next/image';
 
 export default function Hero() {
@@ -115,7 +115,7 @@ export default function Hero() {
               className="mb-4"
             >
               <span className="inline-block bg-blue-500/10 text-blue-400 px-4 py-2 rounded-full text-sm font-medium border border-blue-500/20">
-                👋 Hello, I'm
+                👋 Hello, I&apos;m
               </span>
             </motion.div>
             
@@ -151,7 +151,7 @@ export default function Hero() {
               Specializing in <span className="text-blue-400 font-semibold">.NET</span>, 
               <span className="text-red-400 font-semibold"> Angular</span>, and 
               <span className="text-purple-400 font-semibold"> Cloud Architecture</span>. 
-              Building tomorrow's solutions with 4+ years of enterprise experience and 
+              Building tomorrow&apos;s solutions with 4+ years of enterprise experience and 
               passionate about <span className="text-green-400 font-semibold">mentoring</span> the next generation of engineers.
             </motion.p>
             
